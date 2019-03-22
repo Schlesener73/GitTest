@@ -3,7 +3,7 @@ import java.util.*;
 public class oddities {
 
 	public static void main(String[] args) {
-		int testcase = (int)args[0];
+		int testcase = args[0];
 		for (int i = 0; i < testcase; i++) {
 			int numberToCheck = args[i];
 			boolean isEven = false;
