@@ -14,6 +14,8 @@ public class Oddities {
 
 			boolean isEven = false;
 
+			
+
 		} //for i
 
 	} //main
