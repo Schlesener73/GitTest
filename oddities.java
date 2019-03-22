@@ -2,7 +2,7 @@ import java.util.*;
 
 public class Oddities {
 
-	public static void main(String args[]) {
+	public static void main(String[] args) {
 
 		int input = new Scanner(System.in);
 
