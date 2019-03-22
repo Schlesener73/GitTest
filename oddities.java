@@ -11,7 +11,10 @@ public class Oddities {
 			int k = 0;
 			while (args[i] < 2 * k)
 				k++;
-			if (
+			if (args[i] == 2 * k)
+				System.out.println(args[i] + " is even");
+			else
+				System.out.println(args[i] + " is odd");
 
 		} //for i
 	} //main
