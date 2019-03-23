@@ -5,8 +5,7 @@ public class oddities {
 	public static void main(String[] args) {
 		int testcase = args[0];
 		for (int i = 0; i < testcase; i++) {
-			int numberToCheck = args[i];
-			boolean isEven = false;
+			int numberToCheck = Integer.parseInt(args[i]);
 
 			int k = 0;
 			while (args[i] < 2 * k)
